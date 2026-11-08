@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-tarugame-1.0";
 const contentToCache = [
-    "Build/webuildtarugame.loader.js",
-    "Build/webuildtarugame.framework.js.unityweb",
-    "Build/webuildtarugame.data.unityweb",
-    "Build/webuildtarugame.wasm.unityweb",
+    "Build/buildweb.loader.js",
+    "Build/buildweb.framework.js.unityweb",
+    "Build/buildweb.data.unityweb",
+    "Build/buildweb.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
